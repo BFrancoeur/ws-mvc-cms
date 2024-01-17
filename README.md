@@ -90,7 +90,7 @@ As of right now, here is the breakdown of this project as I see it:
 - Drag-and-Drop Page Builder
 
 - Automatic Templating
-- - For dynamic content, based on where it's to be displayed (website post, Facebook, Instagram, etc.)
+  - For dynamic content, based on where it's to be displayed (website post, Facebook, Instagram, etc.)
  
 ## Strategy
 1. Build out MVC architecture plus a web page to test and demo that the MVC core works
