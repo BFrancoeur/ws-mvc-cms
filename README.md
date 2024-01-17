@@ -14,17 +14,17 @@ The primary purpose of this project is to demonstrate thinking like a programmer
 - HTML
 - CSS/SCSS
 - SQL/MySQL
-- - MariaDB
+  - MariaDB
 - Apache
 - Nginx (later on)
 
 
 ## Architecture
-_Model_ - The data layer. This will be the realm of classes and objects used in the CMS.
+**Model** - The data layer. This will be the realm of classes and objects used in the CMS.
 
-_View_ - The public-facing web pages and admin panels
+**View** - The public-facing web pages and admin panels
 
-_Controller - Manages and routes requests
+**Controller** - Manages and routes requests
 
 
 ## Modules
