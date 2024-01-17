@@ -37,38 +37,38 @@ As of right now, here is the breakdown of this project as I see it:
 - Demo Website
 - Admin Area
 - Users
-- - User Roles
+  - User Roles
 - Authentication
 - Session Management
 - Database
 - HTTP Routing
 - Internal Routing
 - Templates
-- - Core Templates
-- - Template Partials
+  - Core Templates
+  - Template Partials
 - Content Editor
-- - Editor Interface
+  - Editor Interface
 - Dynamic Content
 - Forms
-- - Contact
-- - Email Subscription
-- - Reviews
-- - Testimonials
+  - Contact
+  - Email Subscription
+  - Reviews
+  - Testimonials
 
 ## Some Nice-To-Haves
 - Technical SEO Optimization
-- - Metadata
-- - Keywords
-- - Local SEO
-- - On-Page SEO
+  - Metadata
+  - Keywords
+  - Local SEO
+  - On-Page SEO
  
 - Memberships
 - Ecommerce
-- - Paid Subscriptions
-- - Product and Service Purchases
+  - Paid Subscriptions
+  - Product and Service Purchases
  
 - Automatic Image Optimization
-- - Optimize to 1MB or less without visible loss of quality
+  - Optimize to 1MB or less without visible loss of quality
  
 - Automatic bundling of JS and CSS for fast page load speeds
 
@@ -83,9 +83,9 @@ As of right now, here is the breakdown of this project as I see it:
 - Social Posts by Content Author
 
 - Design System
-- - Reusable
-- - Duplicable
-- - Exportable (CMS agnostic?)
+  - Reusable
+  - Duplicable
+  - Exportable (CMS agnostic?)
  
 - Drag-and-Drop Page Builder
 
